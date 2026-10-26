@@ -1,0 +1,11 @@
+{
+  "model": "deepseek-v4-flash[1M]",
+  "env": {
+    "ANTHROPIC_MODEL": "deepseek-v4-flash[1M]",
+    "CLAUDE_CODE_SUBAGENT_MODEL": "deepseek-v4-flash[1M]",
+    "ANTHROPIC_DEFAULT_OPUS_MODEL": "deepseek-v4-flash[1M]",
+    "ANTHROPIC_DEFAULT_SONNET_MODEL": "deepseek-v4-flash[1M]",
+    "ANTHROPIC_DEFAULT_HAIKU_MODEL": "deepseek-v4-flash[1M]",
+    "ANTHROPIC_DEFAULT_FABLE_MODEL": "deepseek-v4-flash[1M]"
+  }
+}

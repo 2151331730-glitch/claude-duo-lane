@@ -1,0 +1,25 @@
+# 绝对不能进仓库：里面有 API token
+settings.json
+settings-bee.json
+settings-zhipu.json
+settings.local.json
+*.local.json
+
+# 运行时产物
+ledger/
+handoff/
+projects/
+todos/
+backup-*/
+*.log
+
+# 交接 / 账本
+HANDOFF.md
+consult.jsonl
+
+# 编辑器
+.vs/
+.vscode/
+*.swp
+Thumbs.db
+desktop.ini
